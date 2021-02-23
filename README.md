@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Faizan Ahmad</h1>
+ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height='225' width='375'/> 
+
+
 <h3 align="center">I'm a software developer and good problem solver.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan1402&label=Profile%20views&color=0e75b6&style=flat" alt="faizan1402" /> </p>
@@ -29,3 +33,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizan1402&show_icons=true&locale=en" alt="faizan1402" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan1402&" alt="faizan1402" /></p>
+
+<div>
+ <p align="center">
+  <img align="center" width="150px" src="https://user-images.githubusercontent.com/49686277/108319748-47b8c500-71db-11eb-89b5-d38b769731e1.PNG">
+  <br>
+  <strong>Happy Coding</strong> ❤️
+ </p> 
+</div>
+
+
+
