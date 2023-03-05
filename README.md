@@ -3,7 +3,7 @@
 <img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height='225' width='375'/> 
 
 
-<h3 align="center">I'm a software developer and good problem solver.</h3>
+<h3 align="center">I'm a Software Developement Engineer Test and good problem solver.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan1402&label=Profile%20views&color=0e75b6&style=flat" alt="faizan1402" /> </p>
 
