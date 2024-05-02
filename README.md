@@ -3,5 +3,5 @@
 <img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height='225' width='375'/> 
 
 
-<h3 align="center">I am a QA Automation Engineer</h3>
+<h3 align="center">I am QA Automation Engineer</h3>
 
